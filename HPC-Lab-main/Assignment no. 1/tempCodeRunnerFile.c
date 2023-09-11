@@ -1,0 +1,1 @@
+gcc -fopenmp hello_world.c
